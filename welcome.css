@@ -1,4 +1,16 @@
 body {
     background-color: black;
-    font-color: white;
+    font-color: #ffffff;
+ 
 }
+
+h1 {
+    font-color: darkred;
+    text-align: center;
+}
+
+.explore {
+    text-align: center;
+    border: solid #ffffff 2px;
+}
+
