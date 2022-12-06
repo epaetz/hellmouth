@@ -1,16 +1,4 @@
 body {
-    background-color: black;
-    font-color: #ffffff;
- 
+    background-color: #000000;
+    color: #FFFFFF;
 }
-
-h1 {
-    font-color: #ffffff;
-    text-align: center;
-}
-
-.explore {
-    text-align: center;
-    border: solid #ffffff 2px;
-}
-
