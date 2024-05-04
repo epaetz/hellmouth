@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'Sunnydale';
+  src: url('/Fonts/betruetoyourschool.otf') format('otf');
+}
+
+body {
+  background-color: #ffde00;
+  font-family: Arial, Helvetica, sans-serif;
+}
