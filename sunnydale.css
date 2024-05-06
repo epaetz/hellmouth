@@ -5,7 +5,20 @@
 
 body {
   background-color: #ffde00;
+}
+
+.herbert {  
   font-family: 'Sunnydale';
   font-size: 48px;
   color: #8A1A3E;
+  border-style: dashed;
+  border-width: 5px;
+  border-color: #8A1A3E;
+}
+
+
+
+.poll {
+  font-family:Arial, Helvetica, sans-serif;
+  color: #8a1a3e;
 }
