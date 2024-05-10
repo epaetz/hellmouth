@@ -8,3 +8,10 @@ body {
   font-size: 48px;
   font-weight: bold;
 }
+
+.classmate {
+  border: solid;
+  border-width: 3px;
+  width: 200px;
+  height: 200px;
+}
