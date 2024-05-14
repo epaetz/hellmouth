@@ -16,6 +16,12 @@ body {
   height: 200px;
 }
 
-.photo {
+.name {
+  text-align: center;
+  position: relative;
 
+}
+
+.photo {
+  margin: 1px 5px 1px 5px;
 }
